@@ -1,0 +1,8 @@
+<launch>
+  <!--load gazebo-->
+  <include file="$(find nubot_gazebo)/launch/game_ready.launch"> </include>
+  <!--load robot_control_node-->
+  <node name="robot_control" pkg="nubot_common" type="spawn_robots.sh" output="screen"/>
+  <!--load bci_control_node-->
+  <node name="bci_control" pkg="bci_control" type="bci_control_node" output="screen" required="true"/>
+</launch>

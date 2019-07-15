@@ -1,0 +1,28 @@
+E:\rehabilitation system\KinectDriver\KinectDriver\obj\x86\Debug\KinectDriver.csprojResolveAssemblyReference.cache
+E:\rehabilitation system\KinectDriver\KinectDriver\obj\x86\Debug\MainWindow.baml
+E:\rehabilitation system\KinectDriver\KinectDriver\obj\x86\Debug\MainWindow.g.cs
+E:\rehabilitation system\KinectDriver\KinectDriver\obj\x86\Debug\App.g.cs
+E:\rehabilitation system\KinectDriver\KinectDriver\obj\x86\Debug\KinectDriver_MarkupCompile.cache
+E:\rehabilitation system\KinectDriver\KinectDriver\obj\x86\Debug\KinectDriver.g.resources
+E:\rehabilitation system\KinectDriver\KinectDriver\obj\x86\Debug\KinectDriver.Properties.Resources.resources
+E:\rehabilitation system\KinectDriver\KinectDriver\obj\x86\Debug\KinectDriver.csproj.GenerateResource.Cache
+E:\rehabilitation system\KinectDriver\KinectDriver\bin\Debug\KinectDriver.exe
+E:\rehabilitation system\KinectDriver\KinectDriver\bin\Debug\KinectDriver.pdb
+E:\rehabilitation system\KinectDriver\KinectDriver\obj\x86\Debug\KinectDriver.exe
+E:\rehabilitation system\KinectDriver\KinectDriver\obj\x86\Debug\KinectDriver.pdb
+E:\rehabilitation system\KinectDriverSimpleVersion\KinectDriver\obj\x86\Debug\KinectDriver.exe
+E:\rehabilitation system\KinectDriverSimpleVersion\KinectDriver\obj\x86\Debug\KinectDriver.pdb
+E:\rehabilitation system\KinectDriverSimpleVersion\KinectDriver\bin\Debug\KinectDriver.exe
+E:\rehabilitation system\KinectDriverSimpleVersion\KinectDriver\bin\Debug\KinectDriver.pdb
+E:\rehabilitation system\KinectDriverSimpleVersion\KinectDriver\obj\x86\Debug\KinectDriver.csprojResolveAssemblyReference.cache
+E:\rehabilitation system\KinectDriverSimpleVersion\KinectDriver\obj\x86\Debug\MainWindow.baml
+E:\rehabilitation system\KinectDriverSimpleVersion\KinectDriver\obj\x86\Debug\MainWindow.g.cs
+E:\rehabilitation system\KinectDriverSimpleVersion\KinectDriver\obj\x86\Debug\App.g.cs
+E:\rehabilitation system\KinectDriverSimpleVersion\KinectDriver\obj\x86\Debug\KinectDriver_MarkupCompile.cache
+E:\rehabilitation system\KinectDriverSimpleVersion\KinectDriver\obj\x86\Debug\KinectDriver.g.resources
+E:\rehabilitation system\KinectDriverSimpleVersion\KinectDriver\obj\x86\Debug\KinectDriver.Properties.Resources.resources
+E:\rehabilitation system\KinectDriverSimpleVersion\KinectDriver\obj\x86\Debug\KinectDriver.csproj.GenerateResource.Cache
+E:\Git_MobileRehabilitationSystem\KinectDriverSimpleVersion\KinectDriver\obj\x86\Debug\KinectDriver.exe
+E:\Git_MobileRehabilitationSystem\KinectDriverSimpleVersion\KinectDriver\obj\x86\Debug\KinectDriver.pdb
+E:\Git_MobileRehabilitationSystem\Kinect服务器\Kinect服务端\KinectDriver\obj\x86\Debug\KinectDriver.exe
+E:\Git_MobileRehabilitationSystem\Kinect服务器\Kinect服务端\KinectDriver\obj\x86\Debug\KinectDriver.pdb

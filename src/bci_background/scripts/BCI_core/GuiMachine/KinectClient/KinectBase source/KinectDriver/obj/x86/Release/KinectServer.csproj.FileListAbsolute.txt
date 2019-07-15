@@ -1,0 +1,13 @@
+E:\Git_MobileRehabilitationSystem\Kinect服务器\Kinect服务端\KinectDriver\bin\Release\KinectDriver.exe
+E:\Git_MobileRehabilitationSystem\Kinect服务器\Kinect服务端\KinectDriver\bin\Release\KinectDriver.pdb
+E:\Git_MobileRehabilitationSystem\Kinect服务器\Kinect服务端\KinectDriver\bin\Release\MatlabEnvpLib.dll
+E:\Git_MobileRehabilitationSystem\Kinect服务器\Kinect服务端\KinectDriver\obj\x86\Release\KinectServer.csprojResolveAssemblyReference.cache
+E:\Git_MobileRehabilitationSystem\Kinect服务器\Kinect服务端\KinectDriver\obj\x86\Release\MainWindow.baml
+E:\Git_MobileRehabilitationSystem\Kinect服务器\Kinect服务端\KinectDriver\obj\x86\Release\MainWindow.g.cs
+E:\Git_MobileRehabilitationSystem\Kinect服务器\Kinect服务端\KinectDriver\obj\x86\Release\App.g.cs
+E:\Git_MobileRehabilitationSystem\Kinect服务器\Kinect服务端\KinectDriver\obj\x86\Release\KinectDriver_MarkupCompile.cache
+E:\Git_MobileRehabilitationSystem\Kinect服务器\Kinect服务端\KinectDriver\obj\x86\Release\KinectDriver.g.resources
+E:\Git_MobileRehabilitationSystem\Kinect服务器\Kinect服务端\KinectDriver\obj\x86\Release\KinectDriver.Properties.Resources.resources
+E:\Git_MobileRehabilitationSystem\Kinect服务器\Kinect服务端\KinectDriver\obj\x86\Release\KinectServer.csproj.GenerateResource.Cache
+E:\Git_MobileRehabilitationSystem\Kinect服务器\Kinect服务端\KinectDriver\obj\x86\Release\KinectDriver.exe
+E:\Git_MobileRehabilitationSystem\Kinect服务器\Kinect服务端\KinectDriver\obj\x86\Release\KinectDriver.pdb

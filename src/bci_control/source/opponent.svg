@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:export-filename="/home/daiwei/BCI_Multi_Robot/src/bci_control/source/OPP1.png"
+   inkscape:export-xdpi="12.094905"
+   inkscape:export-ydpi="12.094905"
+   inkscape:version="0.92.3 (unknown)"
+   sodipodi:docname="opponent.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="-790.94423"
+     inkscape:cy="821.42748"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="2914"
+     inkscape:window-height="1964"
+     inkscape:window-x="86"
+     inkscape:window-y="36"
+     inkscape:window-maximized="1"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true">
+    <sodipodi:guide
+       position="-236.61308,247.19643"
+       orientation="0,1"
+       id="guide823"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="opacity:1;fill:#333333;fill-opacity:1;stroke:#ffffff;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="path815"
+       sodipodi:type="arc"
+       sodipodi:cx="-236.61308"
+       sodipodi:cy="49.803574"
+       sodipodi:rx="50"
+       sodipodi:ry="50"
+       sodipodi:start="0.61086524"
+       sodipodi:end="5.6723201"
+       d="m -195.65548,78.482395 a 50,50 0 0 1 -55.99289,19.007026 50,50 0 0 1 -34.96471,-47.685848 50,50 0 0 1 34.96471,-47.6858473 50,50 0 0 1 55.99289,19.0070273 l -40.9576,28.678821 z"
+       inkscape:export-xdpi="13.235026"
+       inkscape:export-ydpi="13.235026" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:67.02778625px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-274.1839"
+       y="72.314323"
+       id="text821"
+       inkscape:export-xdpi="13.235026"
+       inkscape:export-ydpi="13.235026"><tspan
+         sodipodi:role="line"
+         id="tspan819"
+         x="-274.1839"
+         y="72.314323"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:63.50000763px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';fill:#ffffff;stroke-width:0.26458332">1</tspan></text>
+  </g>
+</svg>

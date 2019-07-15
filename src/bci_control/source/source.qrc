@@ -1,0 +1,44 @@
+<RCC>
+    <qresource prefix="/">
+        <file>app.png</file>
+        <file>field.png</file>
+        <file>NUM5.png</file>
+        <file>NUM4.png</file>
+        <file>NUM3.png</file>
+        <file>NUM2.png</file>
+        <file>NUM1.png</file>
+        <file>ball.png</file>
+        <file>select_two.png</file>
+        <file>select_three.png</file>
+        <file>select_stop.png</file>
+        <file>select_return.png</file>
+        <file>select_one.png</file>
+        <file>select_four.png</file>
+        <file>select_five.png</file>
+        <file>select_up.png</file>
+        <file>select_robot.png</file>
+        <file>select_regional.png</file>
+        <file>select_radical.png</file>
+        <file>select_man2man.png</file>
+        <file>select_focus.png</file>
+        <file>select_down.png</file>
+        <file>select_defend.png</file>
+        <file>select_conservative.png</file>
+        <file>select_change.png</file>
+        <file>select_balance.png</file>
+        <file>select_attack.png</file>
+        <file>OPP5.png</file>
+        <file>OPP4.png</file>
+        <file>OPP3.png</file>
+        <file>OPP2.png</file>
+        <file>OPP1.png</file>
+        <file>velocity.png</file>
+        <file>logo.png</file>
+        <file>recommend_radical.png</file>
+        <file>recommend_regional.png</file>
+        <file>recommend_man2man.png</file>
+        <file>recommend_focus.png</file>
+        <file>recommend_balance.png</file>
+        <file>recommend_conservative.png</file>
+    </qresource>
+</RCC>

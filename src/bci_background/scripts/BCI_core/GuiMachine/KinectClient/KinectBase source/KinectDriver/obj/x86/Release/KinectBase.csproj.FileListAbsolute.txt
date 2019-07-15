@@ -1,0 +1,24 @@
+E:\projects\Kinect & MICO\Kinect\KinectBase2.0\KinectDriver\bin\Release\KinectBase.exe
+E:\projects\Kinect & MICO\Kinect\KinectBase2.0\KinectDriver\bin\Release\KinectBase.pdb
+E:\projects\Kinect & MICO\Kinect\KinectBase2.0\KinectDriver\bin\Release\MatlabEnvpLib.dll
+E:\projects\Kinect & MICO\Kinect\KinectBase2.0\KinectDriver\obj\x86\Release\KinectBase.csprojResolveAssemblyReference.cache
+E:\projects\Kinect & MICO\Kinect\KinectBase2.0\KinectDriver\obj\x86\Release\MainWindow.baml
+E:\projects\Kinect & MICO\Kinect\KinectBase2.0\KinectDriver\obj\x86\Release\MainWindow.g.cs
+E:\projects\Kinect & MICO\Kinect\KinectBase2.0\KinectDriver\obj\x86\Release\App.g.cs
+E:\projects\Kinect & MICO\Kinect\KinectBase2.0\KinectDriver\obj\x86\Release\KinectBase_MarkupCompile.cache
+E:\projects\Kinect & MICO\Kinect\KinectBase2.0\KinectDriver\obj\x86\Release\KinectBase.g.resources
+E:\projects\Kinect & MICO\Kinect\KinectBase2.0\KinectDriver\obj\x86\Release\KinectBase.Properties.Resources.resources
+E:\projects\Kinect & MICO\Kinect\KinectBase2.0\KinectDriver\obj\x86\Release\KinectBase.csproj.GenerateResource.Cache
+E:\projects\Kinect & MICO\Kinect\KinectBase2.0\KinectDriver\obj\x86\Release\KinectBase.exe
+E:\projects\Kinect & MICO\Kinect\KinectBase2.0\KinectDriver\obj\x86\Release\KinectBase.pdb
+E:\projects\KinectBase2.0\KinectBase\KinectDriver\bin\Release\KinectBase.exe
+E:\projects\KinectBase2.0\KinectBase\KinectDriver\bin\Release\KinectBase.pdb
+E:\projects\KinectBase2.0\KinectBase\KinectDriver\obj\x86\Release\MainWindow.baml
+E:\projects\KinectBase2.0\KinectBase\KinectDriver\obj\x86\Release\MainWindow.g.cs
+E:\projects\KinectBase2.0\KinectBase\KinectDriver\obj\x86\Release\App.g.cs
+E:\projects\KinectBase2.0\KinectBase\KinectDriver\obj\x86\Release\KinectBase_MarkupCompile.cache
+E:\projects\KinectBase2.0\KinectBase\KinectDriver\obj\x86\Release\KinectBase.g.resources
+E:\projects\KinectBase2.0\KinectBase\KinectDriver\obj\x86\Release\KinectBase.Properties.Resources.resources
+E:\projects\KinectBase2.0\KinectBase\KinectDriver\obj\x86\Release\KinectBase.csproj.GenerateResource.Cache
+E:\projects\KinectBase2.0\KinectBase\KinectDriver\obj\x86\Release\KinectBase.exe
+E:\projects\KinectBase2.0\KinectBase\KinectDriver\obj\x86\Release\KinectBase.pdb

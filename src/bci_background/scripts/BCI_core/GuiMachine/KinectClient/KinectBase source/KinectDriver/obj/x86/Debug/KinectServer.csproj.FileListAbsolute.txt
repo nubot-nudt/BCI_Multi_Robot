@@ -1,0 +1,98 @@
+E:\Git_MobileRehabilitationSystem\Kinect服务器\Kinect服务端\KinectDriver\bin\Debug\KinectDriver.exe
+E:\Git_MobileRehabilitationSystem\Kinect服务器\Kinect服务端\KinectDriver\bin\Debug\KinectDriver.pdb
+E:\Git_MobileRehabilitationSystem\Kinect服务器\Kinect服务端\KinectDriver\obj\x86\Debug\KinectServer.csprojResolveAssemblyReference.cache
+E:\Git_MobileRehabilitationSystem\Kinect服务器\Kinect服务端\KinectDriver\obj\x86\Debug\MainWindow.baml
+E:\Git_MobileRehabilitationSystem\Kinect服务器\Kinect服务端\KinectDriver\obj\x86\Debug\MainWindow.g.cs
+E:\Git_MobileRehabilitationSystem\Kinect服务器\Kinect服务端\KinectDriver\obj\x86\Debug\App.g.cs
+E:\Git_MobileRehabilitationSystem\Kinect服务器\Kinect服务端\KinectDriver\obj\x86\Debug\KinectDriver_MarkupCompile.cache
+E:\Git_MobileRehabilitationSystem\Kinect服务器\Kinect服务端\KinectDriver\obj\x86\Debug\KinectDriver.g.resources
+E:\Git_MobileRehabilitationSystem\Kinect服务器\Kinect服务端\KinectDriver\obj\x86\Debug\KinectDriver.Properties.Resources.resources
+E:\Git_MobileRehabilitationSystem\Kinect服务器\Kinect服务端\KinectDriver\obj\x86\Debug\KinectServer.csproj.GenerateResource.Cache
+E:\Git_MobileRehabilitationSystem\Kinect服务器\Kinect服务端\KinectDriver\obj\x86\Debug\KinectDriver.exe
+E:\Git_MobileRehabilitationSystem\Kinect服务器\Kinect服务端\KinectDriver\obj\x86\Debug\KinectDriver.pdb
+E:\Git_MobileRehabilitationSystem\Kinect服务器\Kinect服务端2\KinectDriver\obj\x86\Debug\KinectDriver.exe
+E:\Git_MobileRehabilitationSystem\Kinect服务器\Kinect服务端2\KinectDriver\obj\x86\Debug\KinectDriver.pdb
+E:\Git_MobileRehabilitationSystem\Kinect服务器\Kinect服务端2\KinectDriver\obj\x86\Debug\KinectServer.csprojResolveAssemblyReference.cache
+E:\Git_MobileRehabilitationSystem\Kinect服务器\Kinect服务端2\KinectDriver\obj\x86\Debug\MainWindow.baml
+E:\Git_MobileRehabilitationSystem\Kinect服务器\Kinect服务端2\KinectDriver\obj\x86\Debug\MainWindow.g.cs
+E:\Git_MobileRehabilitationSystem\Kinect服务器\Kinect服务端2\KinectDriver\obj\x86\Debug\App.g.cs
+E:\Git_MobileRehabilitationSystem\Kinect服务器\Kinect服务端2\KinectDriver\obj\x86\Debug\KinectDriver_MarkupCompile.cache
+E:\Git_MobileRehabilitationSystem\Kinect服务器\Kinect服务端2\KinectDriver\obj\x86\Debug\KinectDriver.g.resources
+E:\Git_MobileRehabilitationSystem\Kinect服务器\Kinect服务端2\KinectDriver\obj\x86\Debug\KinectDriver.Properties.Resources.resources
+E:\Git_MobileRehabilitationSystem\Kinect服务器\Kinect服务端2\KinectDriver\obj\x86\Debug\KinectServer.csproj.GenerateResource.Cache
+E:\Git_MobileRehabilitationSystem\Kinect服务器\Kinect服务端2\KinectDriver\bin\Debug\KinectDriver.exe
+E:\Git_MobileRehabilitationSystem\Kinect服务器\Kinect服务端2\KinectDriver\bin\Debug\KinectDriver.pdb
+E:\Kinect_pycsharp_envp\Kinect服务端\KinectDriver\obj\x86\Debug\KinectDriver.exe
+E:\Kinect_pycsharp_envp\Kinect服务端\KinectDriver\obj\x86\Debug\KinectDriver.pdb
+E:\Kinect_pycsharp_envp\Kinect服务端\KinectDriver\bin\Debug\KinectDriver.exe
+E:\Kinect_pycsharp_envp\Kinect服务端\KinectDriver\bin\Debug\KinectDriver.pdb
+E:\Kinect_pycsharp_envp\Kinect服务端\KinectDriver\obj\x86\Debug\KinectServer.csprojResolveAssemblyReference.cache
+E:\Kinect_pycsharp_envp\Kinect服务端\KinectDriver\obj\x86\Debug\MainWindow.baml
+E:\Kinect_pycsharp_envp\Kinect服务端\KinectDriver\obj\x86\Debug\MainWindow.g.cs
+E:\Kinect_pycsharp_envp\Kinect服务端\KinectDriver\obj\x86\Debug\App.g.cs
+E:\Kinect_pycsharp_envp\Kinect服务端\KinectDriver\obj\x86\Debug\KinectDriver_MarkupCompile.cache
+E:\Kinect_pycsharp_envp\Kinect服务端\KinectDriver\obj\x86\Debug\KinectDriver.g.resources
+E:\Kinect_pycsharp_envp\Kinect服务端\KinectDriver\obj\x86\Debug\KinectDriver.Properties.Resources.resources
+E:\Kinect_pycsharp_envp\Kinect服务端\KinectDriver\obj\x86\Debug\KinectServer.csproj.GenerateResource.Cache
+E:\Kinect_pycsharp_envp\Kinect服务端2\KinectDriver\obj\x86\Debug\KinectDriver.exe
+E:\Kinect_pycsharp_envp\Kinect服务端2\KinectDriver\obj\x86\Debug\KinectDriver.pdb
+E:\Kinect_pycsharp_envp\Kinect服务端 - 副本\KinectDriver\obj\x86\Debug\KinectDriver.exe
+E:\Kinect_pycsharp_envp\Kinect服务端 - 副本\KinectDriver\obj\x86\Debug\KinectDriver.pdb
+E:\Kinect_pycsharp_envp\Kinect服务端 - 副本\KinectDriver\bin\Debug\KinectDriver.exe
+E:\Kinect_pycsharp_envp\Kinect服务端 - 副本\KinectDriver\bin\Debug\KinectDriver.pdb
+E:\Kinect_pycsharp_envp\Kinect服务端 - 副本\KinectDriver\obj\x86\Debug\KinectServer.csprojResolveAssemblyReference.cache
+E:\Kinect_pycsharp_envp\Kinect服务端 - 副本\KinectDriver\obj\x86\Debug\MainWindow.baml
+E:\Kinect_pycsharp_envp\Kinect服务端 - 副本\KinectDriver\obj\x86\Debug\MainWindow.g.cs
+E:\Kinect_pycsharp_envp\Kinect服务端 - 副本\KinectDriver\obj\x86\Debug\App.g.cs
+E:\Kinect_pycsharp_envp\Kinect服务端 - 副本\KinectDriver\obj\x86\Debug\KinectDriver_MarkupCompile.cache
+E:\Kinect_pycsharp_envp\Kinect服务端 - 副本\KinectDriver\obj\x86\Debug\KinectDriver.g.resources
+E:\Kinect_pycsharp_envp\Kinect服务端 - 副本\KinectDriver\obj\x86\Debug\KinectDriver.Properties.Resources.resources
+E:\Kinect_pycsharp_envp\Kinect服务端 - 副本\KinectDriver\obj\x86\Debug\KinectServer.csproj.GenerateResource.Cache
+E:\KinectClient\Kinect服务端\KinectDriver\obj\x86\Debug\KinectDriver.exe
+E:\KinectClient\Kinect服务端\KinectDriver\obj\x86\Debug\KinectDriver.pdb
+E:\KinectClient\Kinect服务端\KinectDriver\obj\x86\Debug\KinectServer.csprojResolveAssemblyReference.cache
+E:\KinectClient\Kinect服务端\KinectDriver\obj\x86\Debug\MainWindow.baml
+E:\KinectClient\Kinect服务端\KinectDriver\obj\x86\Debug\MainWindow.g.cs
+E:\KinectClient\Kinect服务端\KinectDriver\obj\x86\Debug\App.g.cs
+E:\KinectClient\Kinect服务端\KinectDriver\obj\x86\Debug\KinectDriver_MarkupCompile.cache
+E:\KinectClient\Kinect服务端\KinectDriver\obj\x86\Debug\KinectDriver.g.resources
+E:\KinectClient\Kinect服务端\KinectDriver\obj\x86\Debug\KinectDriver.Properties.Resources.resources
+E:\KinectClient\Kinect服务端\KinectDriver\obj\x86\Debug\KinectServer.csproj.GenerateResource.Cache
+E:\KinectClient\Kinect服务端\KinectDriver\bin\Debug\KinectDriver.exe
+E:\KinectClient\Kinect服务端\KinectDriver\bin\Debug\KinectDriver.pdb
+E:\KinectClient\KinectServer\KinectDriver\obj\x86\Debug\KinectDriver.exe
+E:\KinectClient\KinectServer\KinectDriver\obj\x86\Debug\KinectDriver.pdb
+E:\KinectClient\KinectServer\KinectDriver\bin\Debug\KinectDriver.exe
+E:\KinectClient\KinectServer\KinectDriver\bin\Debug\KinectDriver.pdb
+E:\KinectClient\KinectServer\KinectDriver\obj\x86\Debug\MainWindow.baml
+E:\KinectClient\KinectServer\KinectDriver\obj\x86\Debug\MainWindow.g.cs
+E:\KinectClient\KinectServer\KinectDriver\obj\x86\Debug\App.g.cs
+E:\KinectClient\KinectServer\KinectDriver\obj\x86\Debug\KinectDriver_MarkupCompile.cache
+E:\KinectClient\KinectServer\KinectDriver\obj\x86\Debug\KinectDriver.g.resources
+E:\KinectClient\KinectServer\KinectDriver\obj\x86\Debug\KinectDriver.Properties.Resources.resources
+E:\KinectClient\KinectServer\KinectDriver\obj\x86\Debug\KinectServer.csproj.GenerateResource.Cache
+E:\KinectClient\KinectServer\KinectDriver\obj\x86\Debug\KinectServer.csprojResolveAssemblyReference.cache
+E:\KinectClient\KinectServer - 副本\KinectDriver\obj\x86\Debug\MainWindow.baml
+E:\KinectClient\KinectServer - 副本\KinectDriver\obj\x86\Debug\MainWindow.g.cs
+E:\KinectClient\KinectServer - 副本\KinectDriver\obj\x86\Debug\App.g.cs
+E:\KinectClient\KinectServer - 副本\KinectDriver\obj\x86\Debug\KinectServer.csproj.GenerateResource.Cache
+E:\KinectClient\KinectServer - 副本\KinectDriver\obj\x86\Debug\KinectServer.csprojResolveAssemblyReference.cache
+E:\KinectClient\KinectServer - 副本\KinectDriver\bin\Debug\KinectServer.exe
+E:\KinectClient\KinectServer - 副本\KinectDriver\bin\Debug\KinectServer.pdb
+E:\KinectClient\KinectServer - 副本\KinectDriver\obj\x86\Debug\KinectServer_MarkupCompile.cache
+E:\KinectClient\KinectServer - 副本\KinectDriver\obj\x86\Debug\KinectServer.g.resources
+E:\KinectClient\KinectServer - 副本\KinectDriver\obj\x86\Debug\KinectServer.Properties.Resources.resources
+E:\KinectClient\KinectServer - 副本\KinectDriver\obj\x86\Debug\KinectServer.exe
+E:\KinectClient\KinectServer - 副本\KinectDriver\obj\x86\Debug\KinectServer.pdb
+E:\KinectClient\KinectClient1\KinectServer\KinectDriver\obj\x86\Debug\KinectServer.exe
+E:\KinectClient\KinectClient1\KinectServer\KinectDriver\obj\x86\Debug\KinectServer.pdb
+E:\KinectClient\KinectClient1\KinectServer\KinectDriver\bin\Debug\KinectServer.exe
+E:\KinectClient\KinectClient1\KinectServer\KinectDriver\bin\Debug\KinectServer.pdb
+E:\KinectClient\KinectClient1\KinectServer\KinectDriver\obj\x86\Debug\KinectServer.csprojResolveAssemblyReference.cache
+E:\KinectClient\KinectClient1\KinectServer\KinectDriver\obj\x86\Debug\MainWindow.baml
+E:\KinectClient\KinectClient1\KinectServer\KinectDriver\obj\x86\Debug\MainWindow.g.cs
+E:\KinectClient\KinectClient1\KinectServer\KinectDriver\obj\x86\Debug\App.g.cs
+E:\KinectClient\KinectClient1\KinectServer\KinectDriver\obj\x86\Debug\KinectServer_MarkupCompile.cache
+E:\KinectClient\KinectClient1\KinectServer\KinectDriver\obj\x86\Debug\KinectServer.g.resources
+E:\KinectClient\KinectClient1\KinectServer\KinectDriver\obj\x86\Debug\KinectServer.Properties.Resources.resources
+E:\KinectClient\KinectClient1\KinectServer\KinectDriver\obj\x86\Debug\KinectServer.csproj.GenerateResource.Cache

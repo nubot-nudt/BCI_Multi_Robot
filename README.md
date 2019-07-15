@@ -1,5 +1,5 @@
-# Human-Multi-Robot Strategic Consensus with Differential World Model and Brain-Computer Interface (BCI)
-Advanced human-multi-robot interactions are being developed for human participation in multi-robot strategy selection. In distributed multi-robot system, the world model maintained by each robot is **inconsistent** due to the measurement errors from onboard sensors so that the differential world model will produce different even incorrect strategy selection. In these project, the human will use **BCI** to participate in the **multi-robot strategy selection** and **control a single-robot at any time**. To the purpose, a specific simulation system has been developed, which composed of: 
+# Human-Multi-Robot Strategic Consensus with Differential World Model and Brain-Computer Interface
+Advanced human-multi-robot interactions are being developed for human participation in multi-robot strategy selection. In distributed multi-robot system, the world model maintained by each robot is **inconsistent** due to the measurement errors from onboard sensors so that the differential world model will produce different even incorrect strategy selection. In these project, the human will use Brain-Computer Interface **(BCI)** to participate in the **multi-robot strategy selection** and **control a single-robot at any time**. To the purpose, a specific simulation system has been developed, which composed of: 
 
 1. a non-invasive BCI Emotiv Epoc; 
 2. a Graphical User Interface (GUI) based on QT;
