@@ -59,6 +59,12 @@ NubotGazebo::NubotGazebo()
     model_states_.name.reserve(20);
     model_states_.pose.reserve(20);
     model_states_.twist.reserve(20);
+
+    dribble_P_ = 0.5;
+    dribble_I_ = 0;
+    dribble_D_ = 0;
+    I_term_max_= 10;
+    I_term_min_= 0;
 }
 
 NubotGazebo::~NubotGazebo()
@@ -213,6 +219,7 @@ void NubotGazebo::service_queue_thread()
         service_queue_.callAvailable(ros::WallDuration(timeout));
 }
 
+/*
 void NubotGazebo::config(nubot_gazebo::NubotGazeboConfig &config, uint32_t level)
 {
     dribble_P_      = config.P;
@@ -222,7 +229,7 @@ void NubotGazebo::config(nubot_gazebo::NubotGazeboConfig &config, uint32_t level
     I_term_min_     = config.I_min;
     ROS_FATAL("Reconfig request: P:%f I:%f D:%f I_term_max:%f I_term_min:%f",
               dribble_P_, dribble_I_, dribble_D_, I_term_max_, I_term_min_);
-}
+}*/
 
 void NubotGazebo::model_states_CB(const gazebo_msgs::ModelStates::ConstPtr& _msg)
 {
