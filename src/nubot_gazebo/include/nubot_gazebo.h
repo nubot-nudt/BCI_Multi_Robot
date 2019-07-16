@@ -29,7 +29,7 @@
 
 #include "core.hpp"
 
-#include <nubot_gazebo/NubotGazeboConfig.h>
+//#include <nubot_gazebo/NubotGazeboConfig.h>
 #include <dynamic_reconfigure/server.h>
 
 
@@ -158,7 +158,7 @@ namespace gazebo{
         nubot_state                 state_;
         nubot_substate              sub_state_;
         Obstacles                   *obs_;
-        dynamic_reconfigure::Server<nubot_gazebo::NubotGazeboConfig> *reconfigureServer_;
+//        dynamic_reconfigure::Server<nubot_gazebo::NubotGazeboConfig> *reconfigureServer_;
 
         /// \brief ModelStates message CallBack function
         /// \param[in] _msg model_states msg shared pointer
@@ -221,7 +221,7 @@ namespace gazebo{
         void nubot_test(void);
 
         /// \brief Dynmaic recofigure calback function
-        void config(nubot_gazebo::NubotGazeboConfig &config, uint32_t level);
+//        void config(nubot_gazebo::NubotGazeboConfig &config, uint32_t level);
 
         /// \brief in real world, this flag is determined by the status of power; however, in
         /// simulation, if the robot beyond the green border(carpet), it is not valid.
