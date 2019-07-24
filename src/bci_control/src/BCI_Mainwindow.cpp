@@ -306,7 +306,7 @@ void MainWindow::on_connect_clicked()
 //Obtained the BCI control order
 void MainWindow::BCI_Info_(char bci_signal)
 {
-    qDebug()<<bci_signal;
+//    qDebug()<<bci_signal;
     switch (bci_signal)
     {
     case SELECTION_ONE:

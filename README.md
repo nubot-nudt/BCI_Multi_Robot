@@ -52,3 +52,7 @@ There are six components included in the simulation system:
 The rosgraph of the simulation system with four robots: (for simplicity, only two robot nodes are listed, and the remaining robot nodes are similar)
 
 ![](image/rosgraph.png)
+
+## Video example
+
+<div align=center><img src="image/video.gif"></div>

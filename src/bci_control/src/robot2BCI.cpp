@@ -42,7 +42,8 @@ void Robot2BCI::update_info_(const nubot_common::InterfaceInfo::ConstPtr &_msg, 
 
 void Robot2BCI::update_bci_info_(const std_msgs::Int8 &_msg)
 {
-    if(_msg.data<-1||_msg.data>6)
+    std::cout<<_msg<<std::endl;
+    if(_msg.data<0||_msg.data>6)
         ROS_ERROR("Invalid BCI signal!");
     else if(_msg.data==6)
         BCI_signal_info.select_signal=true;
