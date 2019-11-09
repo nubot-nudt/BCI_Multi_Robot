@@ -54,7 +54,7 @@ void BallGazebo::joyCallback(const sensor_msgs::Joy::ConstPtr& joy)
 
 void BallGazebo::UpdateChild()
 {
-    static math::Vector3 ball_vel(0, 0, 0);
+    static ignition::math::Vector3d ball_vel(0, 0, 0);
 
     // detect_ball_out();
     if(std::sqrt(vel_x_*vel_x_+vel_y_*vel_y_)>1)
@@ -68,13 +68,13 @@ void BallGazebo::UpdateChild()
 
 void BallGazebo::ball_vel_decay(double mu)
 {
-    math::Vector3   vel = football_model_->GetWorldLinearVel();
-    static double   last_vel_len = vel.GetLength();
-    double          vel_len = vel.GetLength();
+    ignition::math::Vector3d   vel = football_model_->WorldLinearVel();
+    static double   last_vel_len = vel.Length();
+    double          vel_len = vel.Length();
 
     if(vel_len > 0.0)
     {
-        if(football_model_->GetWorldPose().pos.z <= 0.12 &&
+        if(football_model_->WorldPose().Pos().Z() <= 0.12 &&
                 !(last_vel_len - vel_len > 0) )     // when the ball is not in the air && when
                                                     // it does not decelerate anymore
         {
@@ -85,7 +85,7 @@ void BallGazebo::ball_vel_decay(double mu)
     else if(vel_len <= 0.0)
     {
         vel_len = 0.0;
-        football_model_->SetLinearVel(math::Vector3::Zero);
+        football_model_->SetLinearVel(ignition::math::Vector3d::Zero);
     }
 
     last_vel_len = vel_len;
@@ -93,28 +93,28 @@ void BallGazebo::ball_vel_decay(double mu)
 
 void BallGazebo::detect_ball_out(void)
 {
-    double pos_x = football_model_->GetWorldPose().pos.x;
-    double pos_y = football_model_->GetWorldPose().pos.y;
+    double pos_x = football_model_->WorldPose().Pos().X();
+    double pos_y = football_model_->WorldPose().Pos().Y();
     int a = pos_x > 0? 1 : -1;
     int b = pos_y > 0? 1 : -1;
 
     if(fabs(pos_x)>field_length_/2.0)
     {
-        math::Pose  target_pose(math::Vector3(a*(field_length_/2.0-0.02), pos_y, 0.12), math::Quaternion(0,0,0));
+        ignition::math::Pose3d  target_pose(ignition::math::Vector3d(a*(field_length_/2.0-0.02), pos_y, 0.12), ignition::math::Quaterniond(0,0,0));
         football_model_->SetWorldPose(target_pose);
-        football_model_->SetLinearVel(math::Vector3::Zero);
+        football_model_->SetLinearVel(ignition::math::Vector3d::Zero);
     }
     else if(fabs(pos_y) > field_width_/2.0)
     {
-        math::Pose  target_pose(math::Vector3(pos_x, b*(field_width_/2.0 - 0.02), 0.12), math::Quaternion(0,0,0));
+        ignition::math::Pose3d  target_pose(ignition::math::Vector3d(pos_x, b*(field_width_/2.0 - 0.02), 0.12), ignition::math::Quaterniond(0,0,0));
         football_model_->SetWorldPose(target_pose);
-        football_model_->SetLinearVel(math::Vector3::Zero);
+        football_model_->SetLinearVel(ignition::math::Vector3d::Zero);
     }
 }
 
 void BallGazebo::set_ball_pos(const nubot_common::ResetInfo & _msg)
 {
-    math::Pose _ball_pos=math::Pose::Zero;
+    ignition::math::Pose3d _ball_pos=ignition::math::Pose3d::Zero;
     if(_msg.ball_state==FREE_BALL)
     {
         if(fabs(_msg.ball_x)*CM2M_CONVERSION>field_length_/2||fabs(_msg.ball_y)*CM2M_CONVERSION>field_width_/2)
@@ -123,7 +123,7 @@ void BallGazebo::set_ball_pos(const nubot_common::ResetInfo & _msg)
             return;
         }
         else
-            _ball_pos.Set(math::Vector3(_msg.ball_x*CM2M_CONVERSION,_msg.ball_y*CM2M_CONVERSION,0),math::Vector3::Zero);
+            _ball_pos.Set(ignition::math::Vector3d(_msg.ball_x*CM2M_CONVERSION,_msg.ball_y*CM2M_CONVERSION,0),ignition::math::Vector3d::Zero);
         football_model_->SetWorldPose(_ball_pos);
         vel_x_=vel_y_=0;
     }

@@ -28,13 +28,13 @@ void RivalGazebo::Load(physics::ModelPtr _model, sdf::ElementPtr /*_sdf*/)
 
 void RivalGazebo::set_robot_pos(const nubot_common::ResetInfo & _msg)
 {
-    math::Pose _rival_pos=math::Pose::Zero;
+    ignition::math::Pose3d _rival_pos = ignition::math::Pose3d::Zero;
     if(fabs(_msg.opp_x[AgentID_-1])*CM2M_CONVERSION>(field_length_/2+100)||fabs(_msg.opp_y[AgentID_-1])*CM2M_CONVERSION>(field_width_/2+100))
     {
         ROS_INFO("invalid positions");
         return;
     }
     else
-        _rival_pos.Set(math::Vector3(_msg.opp_x[AgentID_-1]*CM2M_CONVERSION,_msg.opp_y[AgentID_-1]*CM2M_CONVERSION,0),math::Vector3(0,0,_msg.opp_theta[AgentID_-1]));
+        _rival_pos.Set(ignition::math::Vector3d(_msg.opp_x[AgentID_-1]*CM2M_CONVERSION,_msg.opp_y[AgentID_-1]*CM2M_CONVERSION,0),ignition::math::Vector3d(0,0,_msg.opp_theta[AgentID_-1]));
     rival_model_->SetWorldPose(_rival_pos);
 }

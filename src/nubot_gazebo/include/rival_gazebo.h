@@ -15,6 +15,12 @@
 #include <nubot_common/ResetInfo.h>
 
 #include "core.hpp"
+#include <ignition/math/Vector3.hh>
+#include <ignition/math/Pose3.hh>
+#include <ignition/math/Quaternion.hh>
+#include <ignition/math/Rand.hh>
+
+#include <dynamic_reconfigure/server.h>
 
 
 namespace gazebo{
