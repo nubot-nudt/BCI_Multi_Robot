@@ -9,12 +9,12 @@ The different components are integrated through the **Robot Operating System** (
 
 ## Runtime environment
 
-1. Ubuntu 16.04
-2. ROS Kinetic
+1. Ubuntu 18.04
+2. ROS Melodic
 3. Python 3.5
-4. Gazebo version 7.0 (the full ROS Kinetic includes the Gazebo 7.0)
+4. Gazebo version 9.0 (the full ROS Kinetic includes the Gazebo 9.0)
 
-**Tips:** If you use the Ubuntu 18.04 and ROS Melodic (includes the Gazebo 9.0), you need to switch the branch to **18.04_melodic**.
+**Tips:** If you use the Ubuntu 16.04 and ROS Kinetc (includes the Gazebo 7.0), you need to switch the branch to **master**.
 
 ## Build
 
