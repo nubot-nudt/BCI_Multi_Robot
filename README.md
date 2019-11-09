@@ -14,6 +14,8 @@ The different components are integrated through the **Robot Operating System** (
 3. Python 3.5
 4. Gazebo version 7.0 (the full ROS Kinetic includes the Gazebo 7.0)
 
+**Tips:** If you use the Ubuntu 18.04 and ROS Melodic (includes the Gazebo 9.0), you need to switch the branch to **18.04_melodic**.
+
 ## Build
 
 Place the package in your workspace content, and then:
