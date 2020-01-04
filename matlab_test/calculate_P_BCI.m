@@ -1,9 +1,9 @@
-%function [strategy_A,strategy_B,strategy_C,count_different, count_accept, count_right] = strategy_selection_attack(times)
-clear;
-load('result_record.mat');
-human_label_1=result_record(find(result_record(:,4)==1),:);
-human_label_2=result_record(find(result_record(:,4)==2),:);
-human_label_3=result_record(find(result_record(:,4)==3),:);
+function right_rate=calculate_P_BCI(times,file_name)
+load(file_name);
+[m,n]=size(result_record);
+human_label_1=result_record(find(result_record(:,n)==1),:);
+human_label_2=result_record(find(result_record(:,n)==2),:);
+human_label_3=result_record(find(result_record(:,n)==3),:);
 
 count_robot=0;
 count_human=0;
@@ -11,8 +11,9 @@ count_robot_human=0;
 count_robot_init=0;
 count_robot_human_init=0;
 count_tmp=zeros(5,1);
+count_choose=0;
 
-loop_times=1000;
+loop_times=times;
 right_rate=zeros(5,loop_times);
 right_rate_tmp=zeros(5,loop_times);
 w_robot= ...
@@ -159,6 +160,7 @@ for loop=1:loop_times
     
     %human&robot strategy with w_mix update
     if human_decision~=robot_decision
+        count_choose=count_choose+1;
         if human_decision==1
             tmp_label=randi([1,length(human_label_1)],1);
             BCI_signal=human_label_1(tmp_label,1:3);
@@ -266,6 +268,3 @@ for loop=1:loop_times
         end
     end
 end
-t=1:loop_times;
-plot(t,right_rate(1,:),t,right_rate(2,:),t,right_rate(3,:),t,right_rate(4,:),t,right_rate(5,:));
-legend('robot','human','robot&human','robot(without w update)','robot&human(without w update)');

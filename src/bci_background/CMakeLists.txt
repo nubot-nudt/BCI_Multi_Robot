@@ -15,5 +15,5 @@ find_package(catkin REQUIRED COMPONENTS
   cmake_modules
 )
 
-generate_messages(DEPENDENCIES std_msgs)
+#generate_messages(DEPENDENCIES std_msgs)
  

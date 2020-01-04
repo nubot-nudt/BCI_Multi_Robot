@@ -1,4 +1,3 @@
-%function [strategy_A,strategy_B,strategy_C,count_different, count_accept, count_right] = strategy_selection_attack(times)
 clear;
 count_robot=0;
 count_human=0;
