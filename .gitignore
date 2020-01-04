@@ -1,9 +1,9 @@
 ## Ignore build files
 build/
+matlab_test/
 devel/
 .idea/
 
-CMakeLists.txt.*
-*~
+*.user
 *.tar.gz
 *.zip

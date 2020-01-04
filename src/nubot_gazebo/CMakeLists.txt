@@ -1,6 +1,8 @@
 cmake_minimum_required(VERSION 2.8.3)
 project(nubot_gazebo)
+set(CMAKE_BUILD_TYPE "Release")
 SET(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=gnu++11")
+cmake_policy(SET CMP0054 NEW)
 
 # Load catkin and all dependencies required for this package
 find_package(catkin REQUIRED COMPONENTS 
@@ -43,7 +45,7 @@ target_link_libraries(nubot_gazebo ${catkin_LIBRARIES}
                                    ${Boost_LIBRARIES}
                                    ${PROTOBUF_LIBRARIES}
                                    pthread)
-add_dependencies(nubot_gazebo ${PROJECT_NAME}_gencfg)
+#add_dependencies(nubot_gazebo ${PROJECT_NAME}_gencfg)
 add_dependencies(nubot_gazebo  ${catkin_EXPORTED_TARGETS})
 
 #rival_gazebo
@@ -53,7 +55,7 @@ target_link_libraries(rival_gazebo ${catkin_LIBRARIES}
                                    ${Boost_LIBRARIES}
                                    ${PROTOBUF_LIBRARIES}
                                    pthread)
-add_dependencies(rival_gazebo ${PROJECT_NAME}_gencfg)
+#add_dependencies(rival_gazebo ${PROJECT_NAME}_gencfg)
 add_dependencies(rival_gazebo  ${catkin_EXPORTED_TARGETS})
 
 #ball_gazebo
@@ -63,7 +65,7 @@ target_link_libraries(ball_gazebo ${catkin_LIBRARIES}
                                   ${Boost_LIBRARIES}
                                   ${PROTOBUF_LIBRARIES}
                                   pthread)
-add_dependencies(ball_gazebo ${PROJECT_NAME}_gencfg)
+#add_dependencies(ball_gazebo ${PROJECT_NAME}_gencfg)
 add_dependencies(ball_gazebo ${catkin_EXPORTED_TARGETS})
 
 add_executable(nubot_teleop_keyboard src/nubot_teleop_keyboard.cpp)

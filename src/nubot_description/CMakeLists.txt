@@ -9,7 +9,7 @@ find_package(catkin REQUIRED COMPONENTS
 catkin_package(
   CATKIN_DEPENDS 
     gazebo_ros 
-  DEPENDS 
-    gazebo
+#  DEPENDS
+#    gazebo
 )
 
