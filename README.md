@@ -58,3 +58,19 @@ The rosgraph of the simulation system with four robots: (for simplicity, only tw
 ## Video example
 
 <div align=center><img src="image/video.gif"></div>
+
+## Notice
+
+If you make use of this work, please star our repo and cite [our paper](https://link.springer.com/article/10.1007/s10489-020-01963-2):
+
+```
+@ARTICLE{Liu2020Brain,
+  author={Liu, Yaru and Dai, Wei and Lu, Huimin and Liu, Yadong and Zhou, Zongtan},
+  journal={Applied Intelligence}, 
+  title={Brain-computer interface for human-multirobot strategic consensus with a differential world model}, 
+  year={2021},
+  volume={51},
+  number={6},
+  pages={3645-3663}
+}
+```
